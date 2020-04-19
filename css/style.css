@@ -1,0 +1,279 @@
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    padding-left:14%;
+  }
+  
+  /* Create four equal columns that sits next to each other */
+  .column {
+    flex: 25%;
+    max-width: 28%;
+    padding: 35px;
+    
+  }
+
+  /* .img-holder:hover {
+    background: black;
+    overflow: hidden;
+    
+ 
+  } */
+
+ 
+  
+  .img {
+    margin-top: 8px;
+    width: 100%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    /* display: block; */
+    /* width: 100%;
+    height: auto; */
+    transition: .3s;
+    border-radius: 5px;
+  }
+
+  .img:hover {
+    cursor: pointer;
+    -moz-box-shadow: 1px 1px 5px #999;
+    -webkit-box-shadow: 1px 1px 5px #999;
+    box-shadow: 1px 1px 5px #999;
+    border: solid 1px #CCC;
+    color: rgba(204, 204, 204, 0.507);
+
+  } 
+
+  a {
+    text-decoration: none;
+    outline: none;
+    color: inherit;
+  }
+
+  a:hover {
+    text-decoration: none;
+    outline: none;
+    color: inherit;
+
+  }
+
+  a:active {
+    text-decoration: none;
+    outline: none;
+    color: inherit;
+  }
+
+  a:visited {
+    outline: none;
+    color: inherit;
+
+  }
+
+body {
+    opacity: 1;
+    transition: 2.2s opacity;
+    background: #fcf8ef;
+}
+
+body.fade-out {
+    opacity: 0;
+    transition: none;
+
+}
+
+.fab fa-linkedin-in fa-lg {
+    text-align: center;
+    display: inline-block;
+    vertical-align: baseline;
+
+}
+
+button {
+    background-color: transparent;
+    width: 150px;
+    height: 40px;
+    border-color: white;
+    color: #7a5f15;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 12px;
+    transition: .4s;
+    outline: none;
+
+}
+
+button:hover {
+    cursor: pointer;
+    border: solid 1px #CCC;
+    -moz-box-shadow: 1px 1px 5px #999;
+    -webkit-box-shadow: 1px 1px 5px #999;
+    box-shadow: 1px 1px 5px #999;
+    background-color: white;
+    color: #7a5f15;
+    outline: none;
+
+}
+
+button:active {
+  outline: none;
+}
+
+button:visited {
+  outline: none;
+}
+
+a:visited {
+  outline: none;
+}
+  
+  /* Responsive layout - makes a two column-layout instead of four columns */
+  @media screen and (max-width: 800px) {
+    .column {
+      flex: 50%;
+      max-width: 50%;
+    }
+
+    .row {
+        padding-left: 0;
+    }
+
+    h1 {
+        padding-left: 0;
+        color:  #7a5f15;
+
+    }
+
+    h4 {
+      padding-left: 0;
+      padding-right: 0;
+      color:  #7a5f15;
+
+    }
+
+    h5 {
+        padding-left: 0;
+        color:  #7a5f15;
+
+    }
+
+    button {
+      white-space: nowrap;
+      margin-bottom: 10px;
+      margin-top: 10px;
+
+
+    }
+  }
+  
+  /* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+  @media screen and (max-width: 600px) {
+    .column {
+      flex: 100%;
+      max-width: 100%;
+    }
+    .row {
+        padding-left: 0;
+    }
+
+    h1 {
+        padding-left: 0;
+        color:  #7a5f15;
+
+    }
+
+    h4 {
+      padding-left: 0;
+      padding-right: 0;
+      color:  #7a5f15;
+
+
+    }
+
+    h5 {
+        padding-left: 0;
+        color:  #7a5f15;
+
+    }
+
+    button {
+      white-space: nowrap;
+      padding-bottom: 10px;
+    }
+  }
+
+h1 {
+    padding-top: 90px;
+    padding-left: 10%;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 42px;
+    color:  #7a5f15;
+    letter-spacing: 0px;
+
+}
+
+h3 {
+  max-width: 100%;
+  padding-top: 20px;
+  padding-left: 10%;
+  padding-right: 35%;
+  font-family: 'Source Sans Pro', sans-serif;
+  color:  #7a5f15;
+  font-size: 20px;
+}
+
+h4 {
+    max-width: 100%;
+    padding-top: 30px;
+    padding-left: 10%;
+    padding-right: 35%;
+    font-family: 'Source Sans Pro', sans-serif;
+     color:  #7a5f15;
+    font-size: 20px;
+    line-height: 1.25;
+
+}
+
+span{
+  display:inline-block;
+  border-bottom:1px solid #7a5f15;
+  padding-bottom:1px;
+}
+
+h5 {
+    padding-top: 10px;
+    padding-left: 10%;
+    font-family: 'Source Sans Pro', sans-serif;
+     color:  #7a5f15;
+}
+
+p {
+  font-family: 'Source Sans Pro', sans-serif;
+  color:  #7a5f15;
+}
+
+p:hover{
+  cursor: pointer;
+  text-shadow: 1px 1px 1px #8a857b;
+}
+
+.fab fa-linkedin-in fa-lg {
+  color: #7a5f15;
+}
+
+.fab fa-linkedin-in fa-lg:hover {
+  cursor: pointer;
+  color: #775c10;
+
+}
+
+#icons:hover {
+  cursor: pointer;
+  color: #775c10;
+}
+
+.fab fa-github fa-lg {
+  color: #7a5f15;
+}
+
+.fab fa-github fa-lg:hover {
+  cursor: pointer;
+
+}
