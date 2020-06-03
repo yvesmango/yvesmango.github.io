@@ -66,6 +66,7 @@ body {
   opacity: 1;
   transition: 2.2s opacity;
   background: #fcf8ef;
+  overflow-x: hidden;
 }
 
 body.fade-out {
@@ -84,7 +85,7 @@ button {
   width: 150px;
   height: 40px;
   border-color: white;
-  color: #7a5f15;
+  color: #685111;
   font-family: "Source Sans Pro", sans-serif;
   font-size: 12px;
   transition: 0.4s;
@@ -98,7 +99,7 @@ button:hover {
   -webkit-box-shadow: 1px 1px 5px #999;
   box-shadow: 1px 1px 5px #999;
   background-color: white;
-  color: #7a5f15;
+  color: #685111;
   outline: none;
 }
 
@@ -127,18 +128,18 @@ a:visited {
 
   h1 {
     padding-left: 0;
-    color: #7a5f15;
+    color: #685111;
   }
 
   h4 {
     padding-left: 0;
     padding-right: 0;
-    color: #7a5f15;
+    color: #685111;
   }
 
   h5 {
     padding-left: 0;
-    color: #7a5f15;
+    color: #685111;
   }
 
   button {
@@ -160,18 +161,18 @@ a:visited {
 
   h1 {
     padding-left: 0;
-    color: #7a5f15;
+    color: #685111;
   }
 
   h4 {
     padding-left: 0;
     padding-right: 0;
-    color: #7a5f15;
+    color: #685111;
   }
 
   h5 {
     padding-left: 0;
-    color: #7a5f15;
+    color: #685111;
   }
 
   button {
@@ -185,7 +186,7 @@ h1 {
   padding-left: 10%;
   font-family: "Source Sans Pro", sans-serif;
   font-size: 42px;
-  color: #7a5f15;
+  color: #685111;
   letter-spacing: 0px;
 }
 
@@ -195,7 +196,7 @@ h3 {
   padding-left: 10%;
   padding-right: 35%;
   font-family: "Source Sans Pro", sans-serif;
-  color: #7a5f15;
+  color: #685111;
   font-size: 20px;
 }
 
@@ -205,14 +206,14 @@ h4 {
   padding-left: 10%;
   padding-right: 40%;
   font-family: "Source Sans Pro", sans-serif;
-  color: #7a5f15;
+  color: #685111;
   font-size: 20px;
   line-height: 1.25;
 }
 
 span {
   display: inline-block;
-  border-bottom: 1px solid #7a5f15;
+  border-bottom: 1px solid #685111;
   padding-bottom: 1px;
 }
 
@@ -220,12 +221,12 @@ h5 {
   padding-top: 10px;
   padding-left: 10%;
   font-family: "Source Sans Pro", sans-serif;
-  color: #7a5f15;
+  color: #685111;
 }
 
 p {
   font-family: "Source Sans Pro", sans-serif;
-  color: #7a5f15;
+  color: #685111;
 }
 
 p:hover {
@@ -234,7 +235,7 @@ p:hover {
 }
 
 .fab fa-linkedin-in fa-lg {
-  color: #7a5f15;
+  color: #685111;
 }
 
 .fab fa-linkedin-in fa-lg:hover {
@@ -248,7 +249,7 @@ p:hover {
 }
 
 .fab fa-github fa-lg {
-  color: #7a5f15;
+  color: #685111;
 }
 
 .fab fa-github fa-lg:hover {
