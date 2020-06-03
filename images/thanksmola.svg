@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1"
+	 id="svg194" inkscape:version="0.92.2 5c3e80d, 2017-08-06" sodipodi:docname="covid-19sankey3! copy.svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 1711.2 1846.7"
+	 style="enable-background:new 0 0 1711.2 1846.7;" xml:space="preserve">
+<style type="text/css">
+	.st0{opacity:0.9;fill:#00AA00;stroke:#008000;enable-background:new    ;}
+	.st1{opacity:0.9;fill:#008033;enable-background:new    ;}
+	.st2{opacity:0.9;fill:#2CA05A;enable-background:new    ;}
+	.st3{opacity:0.9;fill:#5FD35F;enable-background:new    ;}
+	.st4{opacity:0.9;fill:#37C837;enable-background:new    ;}
+	.st5{opacity:0.9;fill:#8DD35F;enable-background:new    ;}
+	.st6{opacity:0.9;fill:#00AA44;enable-background:new    ;}
+	.st7{fill:#020202;}
+	.st8{font-family:'DINAlternate-Bold';}
+	.st9{font-size:37.3333px;}
+	.st10{fill:none;}
+	.st11{font-family:'ArialMT';}
+	.st12{font-size:13.3333px;}
+	.st13{font-size:20px;}
+	.st14{font-size:16px;}
+	.st15{font-size:21.3333px;}
+	.st16{font-size:17.3333px;}
+	.st17{font-size:21px;}
+	.st18{font-size:14.6667px;}
+</style>
+<sodipodi:namedview  bordercolor="#666666" borderopacity="1" gridtolerance="10" guidetolerance="10" id="namedview196" inkscape:current-layer="text" inkscape:cx="826.0309" inkscape:cy="718.8236" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-height="774" inkscape:window-maximized="0" inkscape:window-width="1418" inkscape:window-x="0" inkscape:window-y="23" inkscape:zoom="0.46712171" objecttolerance="10" pagecolor="#ffffff" showgrid="false">
+	</sodipodi:namedview>
+<g id="sankey_svg" transform="translate(-24)">
+	<title  id="title12">Your Diagram Title</title>
+	<title  id="title14">Your Diagram Title</title>
+	<path id="path16" inkscape:connector-curvature="0" class="st0" d="M1027.3,1609.2H698.8c0-197-0.3-383.1-0.5-563.1
+		s-0.5-366.2-0.5-563.4h328.5c0,197,0.3,383.1,0.5,563.1C1027.1,1225.8,1027.3,1412,1027.3,1609.2z"/>
+	<path id="path18" inkscape:connector-curvature="0" class="st1" d="M438.2,987.7h-1.1v-10.2h1.1c38.2,0,72.5-13,96.7-36.6
+		c25.1-24.5,38.4-58.6,38.4-98.5V482.9h10.2v359.5c0,42.8-14.3,79.4-41.5,105.8C515.9,973.7,479.1,987.7,438.2,987.7L438.2,987.7z"
+		/>
+	<path id="path20" inkscape:connector-curvature="0" class="st2" d="M385.9,1512.8h-2.2v-65.7h2.2c68.1,0,130.3-23.7,175.1-66.8
+		c47-45.1,71.8-107.4,71.8-180.2V482.7h65.7v717.5c0,45.8-8.2,89-24.5,128.2c-15.7,37.9-38.4,71.3-67.6,99.3
+		C549.4,1482.6,471,1512.8,385.9,1512.8L385.9,1512.8z"/>
+	<path id="path22" inkscape:connector-curvature="0" class="st3" d="M386.1,1299.2h-1.8v-49.3h1.8c54.4,0,104.1-19,140-53.4
+		c37.6-36.1,57.5-85.9,57.5-144.1V482.9h49.3v569.6c0,36.2-6.5,70.3-19.3,101.3c-12.4,29.9-30.3,56.3-53.3,78.4
+		C515.1,1275.4,453.3,1299.2,386.1,1299.2L386.1,1299.2z"/>
+	<path id="path24" inkscape:connector-curvature="0" class="st4" d="M1234.8,1080.8h-1.1c-40.7,0-78.2-14.4-105.4-40.6
+		c-28.3-27.1-43.8-65.7-43.8-108.7V482.7h18.1v448.9c0,38.5,13.2,71.6,38.3,95.6c23.9,22.9,56.8,35.5,92.9,35.5h1.1L1234.8,1080.8
+		L1234.8,1080.8z"/>
+	<path id="path26" inkscape:connector-curvature="0" class="st1" d="M1199.1,911.4h-0.7c-55.5,0-95.8-40.3-95.8-95.8V482.7h12v332.9
+		c0,24.6,8.5,45.8,24.5,61.1c15.2,14.6,36.3,22.7,59.4,22.7h0.7L1199.1,911.4L1199.1,911.4z"/>
+	<path id="path28" inkscape:connector-curvature="0" class="st5" d="M1329.9,1501.7h-2.2c-82.2,0-157.9-29.1-212.9-82
+		c-28-26.9-49.9-59.1-65-95.6c-15.7-37.9-23.6-79.6-23.6-124V482.7h43.5v717.5c0,75.8,26,140.9,75.3,188.2
+		c46.9,45,111.8,69.8,182.8,69.8h2.2v43.5H1329.9z"/>
+	<path id="path30" inkscape:connector-curvature="0" class="st6" d="M1300.9,1281.8h-1.8c-62.7,0-120.3-22.1-162.2-62.3
+		c-21.3-20.4-37.9-44.8-49.3-72.5c-12-28.9-18-60.8-18-94.7V482.7h14.8v569.6c0,63,21.7,117.1,62.8,156.5
+		c39.1,37.5,93,58.2,151.9,58.2h1.8L1300.9,1281.8z"/>
+	<rect id="rect32" x="434.4" y="933.4" class="st7" width="4.1" height="97.4"/>
+	<rect id="rect34" x="507.6" y="478.6" class="st7" width="666.1" height="4.1"/>
+	<rect id="rect36" x="381.4" y="1226.2" class="st7" width="4.1" height="97.4"/>
+	<rect id="rect38" x="1199.2" y="854.5" class="st7" width="4.1" height="97.4"/>
+	<rect id="rect40" x="1234.9" y="1021.6" class="st7" width="4.1" height="97.4"/>
+	<rect id="rect42" x="1300.9" y="1227" class="st7" width="4.1" height="97.4"/>
+	<rect id="rect44" x="1329.9" y="1430.1" class="st7" width="4.1" height="97.4"/>
+	<rect id="rect46" x="624.3" y="1607.2" class="st7" width="476.4" height="4.1"/>
+</g>
+<g id="text" transform="translate(-6)">
+	<text transform="matrix(1 0 0 1 585.3156 374.4585)" class="st8 st9">What&apos;s inside the $330 million </text>
+	<text transform="matrix(1 0 0 1 598.4406 421.1251)" class="st8 st9">COVID-19 relief bill?</text>
+	<rect id="rect51" x="551" y="384.1" class="st10" width="538.5" height="94.6"/>
+	<text transform="matrix(1 0 0 1 520.5729 447.7755)" class="st11 st12">Minnesota Governor Tim Walz signed a bill on March 28 to allocate more than $300 million </text>
+	<text transform="matrix(1 0 0 1 520.5729 468.1255)" class="st11 st12">in COVID-19 aid for emergency responders and the highly vulnerable, among a fewothers.</text>
+	<rect id="rect63" x="192.8" y="933.5" class="st10" width="208.1" height="34.1"/>
+	<text transform="matrix(1 0 0 1 163.5546 956.1993)" class="st8 st13">$6.2 million: Military veterans</text>
+	<rect id="rect67" x="193.6" y="962.6" class="st10" width="200.1" height="71.5"/>
+	<text transform="matrix(1 0 0 1 293.3807 974.7744)" class="st11 st12">Veterans struggling </text>
+	<text transform="matrix(1 0 0 1 243.7519 990.0894)" class="st11 st12">f</text>
+	<text transform="matrix(1 0 0 1 247.4563 990.0894)" class="st11 st12">i</text>
+	<text transform="matrix(1 0 0 1 250.4185 990.0894)" class="st11 st12">n</text>
+	<text transform="matrix(1 0 0 1 257.8339 990.0894)" class="st11 st12">a</text>
+	<text transform="matrix(1 0 0 1 265.2493 990.0894)" class="st11 st12">n</text>
+	<text transform="matrix(1 0 0 1 272.6646 990.0894)" class="st11 st12">c</text>
+	<text transform="matrix(1 0 0 1 279.3313 990.0894)" class="st11 st12">i</text>
+	<text transform="matrix(1 0 0 1 282.2935 990.0894)" class="st11 st12">a</text>
+	<text transform="matrix(1 0 0 1 289.7089 990.0894)" class="st11 st12">l</text>
+	<text transform="matrix(1 0 0 1 292.6711 990.0894)" class="st11 st12">l</text>
+	<text transform="matrix(1 0 0 1 295.6334 990.0894)" class="st11 st12">y</text>
+	<text transform="matrix(1 0 0 1 302.3 990.0894)" class="st11 st12"> </text>
+	<text transform="matrix(1 0 0 1 306.0045 990.0894)" class="st11 st12">b</text>
+	<text transform="matrix(1 0 0 1 313.4198 990.0894)" class="st11 st12">y</text>
+	<text transform="matrix(1 0 0 1 320.0865 990.0894)" class="st11 st12"> </text>
+	<text transform="matrix(1 0 0 1 323.7909 990.0894)" class="st11 st12">t</text>
+	<text transform="matrix(1 0 0 1 327.4954 990.0894)" class="st11 st12">h</text>
+	<text transform="matrix(1 0 0 1 334.9107 990.0894)" class="st11 st12">e</text>
+	<text transform="matrix(1 0 0 1 342.3261 990.0894)" class="st11 st12"> </text>
+	<text transform="matrix(1 0 0 1 346.0305 990.0894)" class="st11 st12">C</text>
+	<text transform="matrix(1 0 0 1 355.6594 990.0894)" class="st11 st12">O</text>
+	<text transform="matrix(1 0 0 1 366.0305 990.0894)" class="st11 st12">V</text>
+	<text transform="matrix(1 0 0 1 374.9238 990.0894)" class="st11 st12">I</text>
+	<text transform="matrix(1 0 0 1 378.6282 990.0894)" class="st11 st12">D</text>
+	<text transform="matrix(1 0 0 1 388.2571 990.0894)" class="st11 st12">-</text>
+	<text transform="matrix(1 0 0 1 392.6972 990.0894)" class="st11 st12">1</text>
+	<text transform="matrix(1 0 0 1 400.1125 990.0894)" class="st11 st12">9</text>
+	<text transform="matrix(1 0 0 1 407.5279 990.0894)" class="st11 st12"> </text>
+	<text transform="matrix(1 0 0 1 265.2167 1005.4044)" class="st11 st12">are quallified for the aid, </text>
+	<text transform="matrix(1 0 0 1 253.2453 1020.7193)" class="st11 st12">can include their spouses.</text>
+	<rect id="rect79" x="142.7" y="1225" class="st10" width="208.1" height="34.1"/>
+	<text transform="matrix(1 0 0 1 169.7321 1248.0709)" class="st8 st13">$30 million: child care</text>
+	<rect id="rect83" x="143.5" y="1254.2" class="st10" width="200.1" height="71.5"/>
+	<text transform="matrix(1 0 0 1 154.1333 1271.0209)" class="st11 st14">Grats to childcare providers </text>
+	<text transform="matrix(1 0 0 1 171.8911 1291.4092)" class="st11 st14">supporting the families of </text>
+	<text transform="matrix(1 0 0 1 185.0526 1311.7975)" class="st11 st14">emergency responders</text>
+	<rect id="rect95" x="364.9" y="1432.1" class="st7" width="4.1" height="97.4"/>
+	<rect id="rect97" x="142.1" y="1431" class="st10" width="208.1" height="34.1"/>
+	<text transform="matrix(1 0 0 1 124.0234 1461.0404)" class="st8 st13">$40 million: Small business</text>
+	<rect id="rect101" x="142.9" y="1460.1" class="st10" width="200.1" height="71.5"/>
+	<text transform="matrix(1 0 0 1 194.539 1487.0192)" class="st11 st14">Loan programs to help </text>
+	<text transform="matrix(1 0 0 1 158.3515 1507.4392)" class="st11 st14">impacted small businesses.</text>
+	<rect id="rect113" x="673.1" y="1627.5" class="st10" width="330.2" height="34.1"/>
+	<text transform="matrix(1 0 0 1 683.1298 1642.5586)" class="st8 st15">$200 million: General COVID-19 fund </text>
+	<rect id="rect117" x="699.7" y="1656.7" class="st10" width="329.7" height="71.5"/>
+	<text transform="matrix(1 0 0 1 687.2408 1670.0858)" class="st11 st16">General fund for maintenance of </text>
+	<text transform="matrix(1 0 0 1 940.6561 1670.0858)" class="st11 st16">government services and operations. </text>
+	<rect id="rect129" x="1189" y="854.6" class="st10" width="208.1" height="34.1"/>
+	<text id="text131" transform="matrix(1 0 0 1 1194.7531 887.5429)" class="st8 st17">$7.3 mill: miscellaneous </text>
+	<rect id="rect133" x="1189.8" y="883.7" class="st10" width="200.1" height="71.5"/>
+	<text transform="matrix(1 0 0 1 1195.5359 912.8161)" class="st11 st14">Funds used to cover </text>
+	<text transform="matrix(1 0 0 1 1195.5359 933.2361)" class="st11 st14">additional resources.</text>
+	<rect id="rect145" x="1226" y="1021.8" class="st10" width="208.1" height="34.1"/>
+	<text transform="matrix(1 0 0 1 1232.0139 1050.79)" class="st8 st13">$11 million: Tribal nations </text>
+	<rect id="rect149" x="1226.8" y="1050.9" class="st10" width="200.1" height="71.5"/>
+	<text transform="matrix(1 0 0 1 1232.7968 1076.3447)" class="st11 st14">Grants to tribal nations, with </text>
+	<text transform="matrix(1 0 0 1 1232.7968 1096.7648)" class="st11 st14">$1 million for each tribe.</text>
+	<rect id="rect161" x="1293.7" y="1227" class="st10" width="208.1" height="34.1"/>
+	<text transform="matrix(1 0 0 1 1293.7269 1246.0188)" class="st8 st13">$9 million: Food shelves</text>
+	<rect id="rect165" x="1294.5" y="1256.1" class="st10" width="200.1" height="71.5"/>
+	<text transform="matrix(1 0 0 1 1294.5098 1265.5736)" class="st11 st18">Help food banks and food shelves </text>
+	<text transform="matrix(1 0 0 1 1294.5098 1284.2919)" class="st11 st18">provide, transport and organize </text>
+	<text transform="matrix(1 0 0 1 1294.5098 1303.0103)" class="st11 st18">meals to address food hunger </text>
+	<text transform="matrix(1 0 0 1 1294.5098 1321.7285)" class="st11 st18">amid the pandemic. </text>
+	<rect id="rect177" x="1322.7" y="1430.1" class="st10" width="208.1" height="34.1"/>
+	<text transform="matrix(1 0 0 1 1324.7317 1457.1827)" class="st8 st13">$26.5 million: Emergency housing </text>
+	<rect id="rect181" x="1323.5" y="1459.3" class="st10" width="200.1" height="71.5"/>
+	<text transform="matrix(1 0 0 1 1325.5145 1480.7374)" class="st11 st18">Expands resources for people </text>
+	<text transform="matrix(1 0 0 1 1325.5145 1499.4557)" class="st11 st18">experiencing homelessness including </text>
+	<text transform="matrix(1 0 0 1 1325.5145 1518.1741)" class="st11 st18">shelter space and cleaning supplies. </text>
+</g>
+</svg>
