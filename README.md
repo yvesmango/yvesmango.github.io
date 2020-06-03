@@ -10,4 +10,4 @@
 
 # git branch
 
-# test 1
+# git remote set-url origin <link>
