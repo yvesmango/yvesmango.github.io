@@ -72,7 +72,10 @@ body {
     opacity: 1;
     transition: 2.2s opacity;
     background: #fcf8ef;
+<<<<<<< HEAD
     overflow-x: hidden;
+=======
+>>>>>>> ac48e181403497381d441961f369f7e026e60acc
 }
 
 body.fade-out {
@@ -93,7 +96,11 @@ button {
     width: 150px;
     height: 40px;
     border-color: white;
+<<<<<<< HEAD
     color: #644e12;
+=======
+    color: #7a5f15;
+>>>>>>> ac48e181403497381d441961f369f7e026e60acc
     font-family: 'Source Sans Pro', sans-serif;
     font-size: 12px;
     transition: .4s;
@@ -108,7 +115,11 @@ button:hover {
     -webkit-box-shadow: 1px 1px 5px #999;
     box-shadow: 1px 1px 5px #999;
     background-color: white;
+<<<<<<< HEAD
     color: #644e12;
+=======
+    color: #7a5f15;
+>>>>>>> ac48e181403497381d441961f369f7e026e60acc
     outline: none;
 
 }
@@ -138,20 +149,32 @@ a:visited {
 
     h1 {
         padding-left: 0;
+<<<<<<< HEAD
         color:  #644e12;
+=======
+        color:  #7a5f15;
+>>>>>>> ac48e181403497381d441961f369f7e026e60acc
 
     }
 
     h4 {
       padding-left: 0;
       padding-right: 0;
+<<<<<<< HEAD
       color:  #644e12;
+=======
+      color:  #7a5f15;
+>>>>>>> ac48e181403497381d441961f369f7e026e60acc
 
     }
 
     h5 {
         padding-left: 0;
+<<<<<<< HEAD
         color:  #644e12;
+=======
+        color:  #7a5f15;
+>>>>>>> ac48e181403497381d441961f369f7e026e60acc
 
     }
 
@@ -176,21 +199,33 @@ a:visited {
 
     h1 {
         padding-left: 0;
+<<<<<<< HEAD
         color:  #644e12;
+=======
+        color:  #7a5f15;
+>>>>>>> ac48e181403497381d441961f369f7e026e60acc
 
     }
 
     h4 {
       padding-left: 0;
       padding-right: 0;
+<<<<<<< HEAD
       color:  #644e12;
+=======
+      color:  #7a5f15;
+>>>>>>> ac48e181403497381d441961f369f7e026e60acc
 
 
     }
 
     h5 {
         padding-left: 0;
+<<<<<<< HEAD
         color:  #644e12;
+=======
+        color:  #7a5f15;
+>>>>>>> ac48e181403497381d441961f369f7e026e60acc
 
     }
 
@@ -205,7 +240,11 @@ h1 {
     padding-left: 10%;
     font-family: 'Source Sans Pro', sans-serif;
     font-size: 42px;
+<<<<<<< HEAD
     color:  #644e12;
+=======
+    color:  #7a5f15;
+>>>>>>> ac48e181403497381d441961f369f7e026e60acc
     letter-spacing: 0px;
 
 }
@@ -216,7 +255,11 @@ h3 {
   padding-left: 10%;
   padding-right: 35%;
   font-family: 'Source Sans Pro', sans-serif;
+<<<<<<< HEAD
   color:  #644e12;
+=======
+  color:  #7a5f15;
+>>>>>>> ac48e181403497381d441961f369f7e026e60acc
   font-size: 20px;
 }
 
@@ -224,9 +267,15 @@ h4 {
     max-width: 100%;
     padding-top: 30px;
     padding-left: 10%;
+<<<<<<< HEAD
     padding-right: 30%;
     font-family: 'Source Sans Pro', sans-serif;
      color:  #644e12;
+=======
+    padding-right: 40%;
+    font-family: 'Source Sans Pro', sans-serif;
+     color:  #7a5f15;
+>>>>>>> ac48e181403497381d441961f369f7e026e60acc
     font-size: 20px;
     line-height: 1.25;
 
@@ -234,7 +283,11 @@ h4 {
 
 span{
   display:inline-block;
+<<<<<<< HEAD
   border-bottom:1px solid #644e12;
+=======
+  border-bottom:1px solid #7a5f15;
+>>>>>>> ac48e181403497381d441961f369f7e026e60acc
   padding-bottom:1px;
 }
 
@@ -242,12 +295,20 @@ h5 {
     padding-top: 10px;
     padding-left: 10%;
     font-family: 'Source Sans Pro', sans-serif;
+<<<<<<< HEAD
      color:  #644e12;
+=======
+     color:  #7a5f15;
+>>>>>>> ac48e181403497381d441961f369f7e026e60acc
 }
 
 p {
   font-family: 'Source Sans Pro', sans-serif;
+<<<<<<< HEAD
   color:  #644e12;
+=======
+  color:  #7a5f15;
+>>>>>>> ac48e181403497381d441961f369f7e026e60acc
 }
 
 p:hover{
@@ -256,7 +317,11 @@ p:hover{
 }
 
 .fab fa-linkedin-in fa-lg {
+<<<<<<< HEAD
   color: #644e12;
+=======
+  color: #7a5f15;
+>>>>>>> ac48e181403497381d441961f369f7e026e60acc
 }
 
 .fab fa-linkedin-in fa-lg:hover {
@@ -271,10 +336,18 @@ p:hover{
 }
 
 .fab fa-github fa-lg {
+<<<<<<< HEAD
   color: #644e12;
+=======
+  color: #7a5f15;
+>>>>>>> ac48e181403497381d441961f369f7e026e60acc
 }
 
 .fab fa-github fa-lg:hover {
   cursor: pointer;
 
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> ac48e181403497381d441961f369f7e026e60acc

@@ -25,8 +25,13 @@
      inkscape:window-maximized="0"
      inkscape:window-y="23"
      inkscape:window-x="0"
+<<<<<<< HEAD
      inkscape:cy="812.69161"
      inkscape:cx="1375.4648"
+=======
+     inkscape:cy="479.666"
+     inkscape:cx="588.31331"
+>>>>>>> ac48e181403497381d441961f369f7e026e60acc
      inkscape:zoom="1.3212197"
      showgrid="false"
      id="namedview196"
@@ -330,7 +335,11 @@
        x="1194.7531"
        id="text131"
        class="st6 st12"
+<<<<<<< HEAD
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21px;font-family:'DIN Alternate';-inkscape-font-specification:'DIN Alternate, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">$7.3 million: miscellaneous </text>
+=======
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21px;font-family:'DIN Alternate';-inkscape-font-specification:'DIN Alternate, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">$7.3 mill: miscellaneous </text>
+>>>>>>> ac48e181403497381d441961f369f7e026e60acc
 <text
        y="912.8161"
        x="1195.5359"
@@ -342,7 +351,11 @@
          y="912.8161"
          id="tspan124"><tspan
            style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:16px;line-height:1;font-family:Cursor;-inkscape-font-specification:'Cursor, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+<<<<<<< HEAD
            id="tspan122">Remaining funds to cover </tspan></tspan><tspan
+=======
+           id="tspan122">Funds used to cover </tspan></tspan><tspan
+>>>>>>> ac48e181403497381d441961f369f7e026e60acc
          sodipodi:role="line"
          x="1195.5359"
          y="933.23608"
