@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 23.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1"
-	 id="svg194" inkscape:version="0.92.2 5c3e80d, 2017-08-06" sodipodi:docname="covid-19sankey3! copy.svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg"
+	 id="svg194" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg"
 	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 1711.2 1846.7"
 	 style="enable-background:new 0 0 1711.2 1846.7;" xml:space="preserve">
 <style type="text/css">
@@ -65,10 +65,10 @@
 	<text transform="matrix(1 0 0 1 585.3156 374.4585)" class="st8 st9">What&apos;s inside the $330 million </text>
 	<text transform="matrix(1 0 0 1 598.4406 421.1251)" class="st8 st9">COVID-19 relief bill?</text>
 	<rect id="rect51" x="551" y="384.1" class="st10" width="538.5" height="94.6"/>
-	<text transform="matrix(1 0 0 1 520.5729 447.7755)" class="st11 st12">Minnesota Governor Tim Walz signed a bill on March 28 to allocate more than $300 million </text>
-	<text transform="matrix(1 0 0 1 520.5729 468.1255)" class="st11 st12">in COVID-19 aid for emergency responders and the highly vulnerable, among a fewothers.</text>
+	<text transform="matrix(1 0 0 1 538.5729 447.7755)" class="st11 st12">Minnesota Governor Tim Walz signed a bill on March 28 to allocate more than $300 million </text>
+	<text transform="matrix(1 0 0 1 538.5729 468.1255)" class="st11 st12">in COVID-19 aid for emergency responders and the highly vulnerable, among a few others.</text>
 	<rect id="rect63" x="192.8" y="933.5" class="st10" width="208.1" height="34.1"/>
-	<text transform="matrix(1 0 0 1 163.5546 956.1993)" class="st8 st13">$6.2 million: Military veterans</text>
+	<text transform="matrix(1 0 0 1 163.5546 956.1993)" class="st8 st13" style="text-decoration: underline;">$6.2 million: Military veterans</text>
 	<rect id="rect67" x="193.6" y="962.6" class="st10" width="200.1" height="71.5"/>
 	<text transform="matrix(1 0 0 1 293.3807 974.7744)" class="st11 st12">Veterans struggling </text>
 	<text transform="matrix(1 0 0 1 243.7519 990.0894)" class="st11 st12">f</text>
@@ -102,41 +102,41 @@
 	<text transform="matrix(1 0 0 1 265.2167 1005.4044)" class="st11 st12">are quallified for the aid, </text>
 	<text transform="matrix(1 0 0 1 253.2453 1020.7193)" class="st11 st12">can include their spouses.</text>
 	<rect id="rect79" x="142.7" y="1225" class="st10" width="208.1" height="34.1"/>
-	<text transform="matrix(1 0 0 1 169.7321 1248.0709)" class="st8 st13">$30 million: child care</text>
+	<text transform="matrix(1 0 0 1 169.7321 1248.0709)" class="st8 st13" style="text-decoration: underline;">$30 million: child care</text>
 	<rect id="rect83" x="143.5" y="1254.2" class="st10" width="200.1" height="71.5"/>
 	<text transform="matrix(1 0 0 1 154.1333 1271.0209)" class="st11 st14">Grats to childcare providers </text>
 	<text transform="matrix(1 0 0 1 171.8911 1291.4092)" class="st11 st14">supporting the families of </text>
 	<text transform="matrix(1 0 0 1 185.0526 1311.7975)" class="st11 st14">emergency responders</text>
 	<rect id="rect95" x="364.9" y="1432.1" class="st7" width="4.1" height="97.4"/>
 	<rect id="rect97" x="142.1" y="1431" class="st10" width="208.1" height="34.1"/>
-	<text transform="matrix(1 0 0 1 124.0234 1461.0404)" class="st8 st13">$40 million: Small business</text>
+	<text transform="matrix(1 0 0 1 124.0234 1461.0404)" class="st8 st13" style="text-decoration: underline;">$40 million: Small business</text>
 	<rect id="rect101" x="142.9" y="1460.1" class="st10" width="200.1" height="71.5"/>
 	<text transform="matrix(1 0 0 1 194.539 1487.0192)" class="st11 st14">Loan programs to help </text>
 	<text transform="matrix(1 0 0 1 158.3515 1507.4392)" class="st11 st14">impacted small businesses.</text>
 	<rect id="rect113" x="673.1" y="1627.5" class="st10" width="330.2" height="34.1"/>
-	<text transform="matrix(1 0 0 1 683.1298 1642.5586)" class="st8 st15">$200 million: General COVID-19 fund </text>
+	<text transform="matrix(1 0 0 1 683.1298 1642.5586)" class="st8 st15" style="text-decoration: underline;">$200 million: General COVID-19 fund </text>
 	<rect id="rect117" x="699.7" y="1656.7" class="st10" width="329.7" height="71.5"/>
 	<text transform="matrix(1 0 0 1 687.2408 1670.0858)" class="st11 st16">General fund for maintenance of </text>
-	<text transform="matrix(1 0 0 1 940.6561 1670.0858)" class="st11 st16">government services and operations. </text>
+	<text transform="matrix(1 0 0 1 687.2408 1690.8857)" class="st11 st16">government services and operations. </text>
 	<rect id="rect129" x="1189" y="854.6" class="st10" width="208.1" height="34.1"/>
-	<text id="text131" transform="matrix(1 0 0 1 1194.7531 887.5429)" class="st8 st17">$7.3 mill: miscellaneous </text>
+	<text id="text131" transform="matrix(1 0 0 1 1194.7531 887.5429)" class="st8 st17" style="text-decoration: underline;">$7.3 mill: miscellaneous </text>
 	<rect id="rect133" x="1189.8" y="883.7" class="st10" width="200.1" height="71.5"/>
 	<text transform="matrix(1 0 0 1 1195.5359 912.8161)" class="st11 st14">Funds used to cover </text>
 	<text transform="matrix(1 0 0 1 1195.5359 933.2361)" class="st11 st14">additional resources.</text>
 	<rect id="rect145" x="1226" y="1021.8" class="st10" width="208.1" height="34.1"/>
-	<text transform="matrix(1 0 0 1 1232.0139 1050.79)" class="st8 st13">$11 million: Tribal nations </text>
+	<text transform="matrix(1 0 0 1 1232.0139 1050.79)" class="st8 st13" style="text-decoration: underline;">$11 million: Tribal nations </text>
 	<rect id="rect149" x="1226.8" y="1050.9" class="st10" width="200.1" height="71.5"/>
 	<text transform="matrix(1 0 0 1 1232.7968 1076.3447)" class="st11 st14">Grants to tribal nations, with </text>
 	<text transform="matrix(1 0 0 1 1232.7968 1096.7648)" class="st11 st14">$1 million for each tribe.</text>
 	<rect id="rect161" x="1293.7" y="1227" class="st10" width="208.1" height="34.1"/>
-	<text transform="matrix(1 0 0 1 1293.7269 1246.0188)" class="st8 st13">$9 million: Food shelves</text>
+	<text transform="matrix(1 0 0 1 1293.7269 1246.0188)" class="st8 st13" style="text-decoration: underline;">$9 million: Food shelves</text>
 	<rect id="rect165" x="1294.5" y="1256.1" class="st10" width="200.1" height="71.5"/>
 	<text transform="matrix(1 0 0 1 1294.5098 1265.5736)" class="st11 st18">Help food banks and food shelves </text>
 	<text transform="matrix(1 0 0 1 1294.5098 1284.2919)" class="st11 st18">provide, transport and organize </text>
 	<text transform="matrix(1 0 0 1 1294.5098 1303.0103)" class="st11 st18">meals to address food hunger </text>
 	<text transform="matrix(1 0 0 1 1294.5098 1321.7285)" class="st11 st18">amid the pandemic. </text>
 	<rect id="rect177" x="1322.7" y="1430.1" class="st10" width="208.1" height="34.1"/>
-	<text transform="matrix(1 0 0 1 1324.7317 1457.1827)" class="st8 st13">$26.5 million: Emergency housing </text>
+	<text transform="matrix(1 0 0 1 1324.7317 1457.1827)" class="st8 st13" style="text-decoration: underline;">$26.5 million: Emergency housing </text>
 	<rect id="rect181" x="1323.5" y="1459.3" class="st10" width="200.1" height="71.5"/>
 	<text transform="matrix(1 0 0 1 1325.5145 1480.7374)" class="st11 st18">Expands resources for people </text>
 	<text transform="matrix(1 0 0 1 1325.5145 1499.4557)" class="st11 st18">experiencing homelessness including </text>
