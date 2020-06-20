@@ -65,7 +65,8 @@ a:visited {
 body {
   opacity: 1;
   transition: 2.2s opacity;
-  background: #fcf8ef;
+  background: #f7f2e8;
+  /*background: #fcf8ef;*/
   overflow-x: hidden;
 }
 
@@ -85,7 +86,7 @@ button {
   width: 150px;
   height: 40px;
   border-color: white;
-  color: #685111;
+  color: #53400d;
   font-family: "Source Sans Pro", sans-serif;
   font-size: 12px;
   transition: 0.4s;
@@ -99,7 +100,7 @@ button:hover {
   -webkit-box-shadow: 1px 1px 5px #999;
   box-shadow: 1px 1px 5px #999;
   background-color: white;
-  color: #685111;
+  color: #53400d;
   outline: none;
 }
 
@@ -128,18 +129,18 @@ a:visited {
 
   h1 {
     padding-left: 0;
-    color: #685111;
+    color: #53400d;
   }
 
   h4 {
     padding-left: 0;
     padding-right: 0;
-    color: #685111;
+    color: #53400d;
   }
 
   h5 {
     padding-left: 0;
-    color: #685111;
+    color: #53400d;
   }
 
   button {
@@ -161,18 +162,18 @@ a:visited {
 
   h1 {
     padding-left: 0;
-    color: #685111;
+    color: #53400d;
   }
 
   h4 {
     padding-left: 0;
     padding-right: 0;
-    color: #685111;
+    color: #53400d;
   }
 
   h5 {
     padding-left: 0;
-    color: #685111;
+    color: #53400d;
   }
 
   button {
@@ -186,7 +187,7 @@ h1 {
   padding-left: 10%;
   font-family: "Source Sans Pro", sans-serif;
   font-size: 42px;
-  color: #685111;
+  color: #53400d;
   letter-spacing: 0px;
 }
 
@@ -196,7 +197,7 @@ h3 {
   padding-left: 10%;
   padding-right: 35%;
   font-family: "Source Sans Pro", sans-serif;
-  color: #685111;
+  color: #53400d;
   font-size: 20px;
 }
 
@@ -206,14 +207,14 @@ h4 {
   padding-left: 10%;
   padding-right: 40%;
   font-family: "Source Sans Pro", sans-serif;
-  color: #685111;
+  color: #53400d;
   font-size: 20px;
   line-height: 1.25;
 }
 
 span {
   display: inline-block;
-  border-bottom: 1px solid #685111;
+  border-bottom: 1px solid #53400d;
   padding-bottom: 1px;
 }
 
@@ -221,12 +222,12 @@ h5 {
   padding-top: 10px;
   padding-left: 10%;
   font-family: "Source Sans Pro", sans-serif;
-  color: #685111;
+  color: #53400d;
 }
 
 p {
   font-family: "Source Sans Pro", sans-serif;
-  color: #685111;
+  color: #53400d;
 }
 
 p:hover {
@@ -235,7 +236,7 @@ p:hover {
 }
 
 .fab fa-linkedin-in fa-lg {
-  color: #685111;
+  color: #53400d;
 }
 
 .fab fa-linkedin-in fa-lg:hover {
@@ -249,7 +250,7 @@ p:hover {
 }
 
 .fab fa-github fa-lg {
-  color: #685111;
+  color: #53400d;
 }
 
 .fab fa-github fa-lg:hover {
