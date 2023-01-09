@@ -1,6 +1,6 @@
 ---
 layout: default
-title: about me
+title: about
 ---
 **[Home](/) >> About**
 

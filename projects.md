@@ -15,7 +15,7 @@ title: projects
   <span class=rep>Data Analysis</span>
   <span class=rep>Reporting</span>
   <ul>
-    <li>Speeding and citation data analysis in Minnesota revealed connection to understaffed police departments.</li>
+    <li>Data analysis of speeding citation data in Minnesota revealed connection to understaffed police departments.</li>
   </ul>
   <a href="https://www.startribune.com/is-there-more-speeding-on-minnesota-roads/600204091/" target="_blank"><span class="card-link-spanner"></span></a>
 </div>
@@ -28,7 +28,7 @@ title: projects
   <span class=rep>Data Analysis</span>
   <span class=rep>Reporting</span>
   <ul>
-    <li>Heavy data analysis project of parcel-property value for a news piece about soaring property values in northern Minnesota.</li>
+    <li>Heavy data analysis project of property data for a news piece on soaring property values in northern Minnesota.</li>
   </ul>
   <a href="https://www.startribune.com/property-values-soaring-in-minnesota-lake-country/600196316/" target="_blank"><span class="card-link-spanner"></span></a>
 </div>
