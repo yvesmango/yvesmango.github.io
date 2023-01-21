@@ -8,6 +8,17 @@ title: projects
 ## Projects
 
 <div class="card">
+  <h3>Creating isochrone maps via OSMnx
+</h3>
+  <p>side project</p>
+  <span class=rep>Python</span>
+  <ul>
+    <li>First attempt at using the network analysis package, OSMnx.</li>
+  </ul>
+  <a href="https://yvesmango.github.io/isochrone_map1/" target="_blank"><span class="card-link-spanner"></span></a>
+</div>
+
+<div class="card">
   <h3>Minnesotans are 'driving like crazy,' and it's killing people
 </h3>
   <p>THE STAR TRIBUNE</p>
