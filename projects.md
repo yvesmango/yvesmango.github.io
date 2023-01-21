@@ -10,7 +10,7 @@ title: projects
 <div class="card">
   <h3>Creating isochrone maps via OSMnx
 </h3>
-  <p>side project</p>
+  <p>Side Project</p>
   <span class=rep>Python</span>
   <ul>
     <li>First attempt at using the network analysis package, OSMnx.</li>
@@ -21,7 +21,7 @@ title: projects
 <div class="card">
   <h3>Minnesotans are 'driving like crazy,' and it's killing people
 </h3>
-  <p>THE STAR TRIBUNE</p>
+  <p>The Star Tribune</p>
   <span class=rep>Python</span>
   <span class=rep>Data Analysis</span>
   <span class=rep>Reporting</span>
@@ -34,7 +34,7 @@ title: projects
 <div class="card">
   <h3>Soaring property values shock owners in Minnesota lake country
 </h3>
-  <p>THE STAR TRIBUNE</p>
+  <p>The Star Tribune</p>
   <span class=rep>Python</span>
   <span class=rep>Data Analysis</span>
   <span class=rep>Reporting</span>
@@ -47,7 +47,7 @@ title: projects
 <div class="card">
   <h3>Tracking employees vaccine mandates
 </h3>
-  <p>THE NEW YORK TIMES</p>
+  <p>The New York Times</p>
   <span class=rep>Reporting</span>
   <ul>
     <li>Heavy data analysis project of parcel-property value for a news piece about soaring property values in northern Minnesota.</li>
@@ -58,7 +58,7 @@ title: projects
 <div class="card">
   <h3>Public health workers face crisis and fear post-covid 
 </h3>
-  <p>THE NEW YORK TIMES</p>
+  <p>The New York Times</p>
   <span class=rep>Data Analysis</span>
   <span class=rep>Reporting</span>
   <ul>
