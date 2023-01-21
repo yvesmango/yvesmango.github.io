@@ -15,7 +15,7 @@ title: projects
   <ul>
     <li>First attempt at using the network analysis package, OSMnx.</li>
   </ul>
-  <a href="https://yvesmango.github.io/isochrone_map1/" target="_blank"><span class="card-link-spanner"></span></a>
+  <a href="https://yvesmango.github.io/isochrone_map1/"><span class="card-link-spanner"></span></a>
 </div>
 
 <div class="card">
