@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: /projects
-title: Projects
+title: projects
 ---
 **[Home](/) >> Projects**
 
