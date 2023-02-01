@@ -22,7 +22,7 @@ platforms:
 
 navigation:
   - name: home
-    link: ./index
+    link: ./
   - name: projects
     link: ./projects
   - name: about
