@@ -24,9 +24,9 @@ navigation:
   - name: home
     link: ./index
   - name: projects
-    link: ./projects.html
+    link: ./projects
   - name: about
-    link: ./aboutme.html
+    link: ./aboutme
   - name: sample
     link: ./sample.html
     sublist:
