@@ -67,7 +67,4 @@ title: projects
 </div>
 
 
-_yay_
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
 [top](#top)
