@@ -5,7 +5,7 @@ description: <p>Network Analysis.</br>Machine Learning.</br>Data Visualization.<
 favicon: true
 color-scheme: light
 
-url: https://yves.mango/
+url: https://yvesmango.github.io/
 
 plugins:
   - jekyll-sitemap
@@ -22,7 +22,7 @@ platforms:
 
 navigation:
   - name: home
-    link: ./index.html
+    link: ./index
   - name: projects
     link: ./projects.html
   - name: about
