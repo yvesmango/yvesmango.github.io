@@ -5,6 +5,8 @@ description: <p>Network Analysis.</br>Machine Learning.</br>Data Visualization.<
 favicon: true
 color-scheme: light
 
+url: https://yves.mango/
+
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
