@@ -26,7 +26,7 @@ navigation:
   - name: projects
     link: ./projects
   - name: about
-    link: ./aboutme
+    link: ./aboutme.html
   - name: sample
     link: ./sample.html
     sublist:
