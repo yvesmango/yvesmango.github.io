@@ -1,6 +1,7 @@
 ---
 layout: default
 title: home
+permalink: https://github.com/yvesmango
 ---
 
 ## Bio, briefly
