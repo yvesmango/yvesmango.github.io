@@ -1,6 +1,5 @@
 ---
 layout: default
-permalink: /about
 title: about
 ---
 **[Home](/) >> About**
