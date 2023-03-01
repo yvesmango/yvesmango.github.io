@@ -7,6 +7,17 @@ title: projects
 ## Projects
 
 <div class="card">
+  <h3>State of Kaggle 2022 
+</h3>
+  <p>Side Project</p>
+  <span class=rep>R</span>
+  <ul>
+    <li>Data analysis project on Kaggle survey data.</li>
+  </ul>
+  <a href="https://yvesmango.github.io/r-kaggle-survey-2022/"><span class="card-link-spanner"></span></a>
+</div>
+
+<div class="card">
   <h3>Creating isochrone maps via OSMnx
 </h3>
   <p>Side Project</p>
