@@ -28,7 +28,3 @@ navigation:
   - name: about
     link: ./aboutme
   - name: sample
-    link: ./sample.html
-    sublist:
-      - name: Image
-        link: ./sample.html#small-image
