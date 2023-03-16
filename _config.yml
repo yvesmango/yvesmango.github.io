@@ -27,4 +27,3 @@ navigation:
     link: ./projects
   - name: about
     link: ./aboutme
-  - name: sample
