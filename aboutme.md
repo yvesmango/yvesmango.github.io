@@ -8,8 +8,9 @@ title: about
 
 mabuhay! <a href="https://youtu.be/BwqSraJpqfs" target="_blank">today is a gift.</a>
 
+i'm currently
 
-my interests lie at the intersection of network analysis and transportation planning; combining network analysis, geospatial analytics, and storytelling to engage urban transit issues through a data science lens. i’ve taken on several technical roles in a wide variety of settings, which involved but not limited to research analysis, data analysis, data visualization, and machine learning. i’m infinitely curious about the way the world works; data is my tool for storytelling and understanding the world. what tool do you use?
+my interests lie at the intersection of storytelling and data science. i’m infinitely curious about the way the world works; data is my tool for storytelling and understanding the world. what tool do you use?
 
 ...
 * * * 
