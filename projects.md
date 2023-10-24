@@ -10,9 +10,11 @@ title: projects
   <h3>Subreddit Sentiment Analysis, A Course Final Project
 </h3>
   <p>Side Project</p>
-  <span class=rep>R</span>
+  <span class=rep>Python</span>
+  <span class=rep>NLP</span>
+  <span class=rep>Text Processing</span>
   <ul>
-    <li>Unsupervised learning, customer segmentation project.</li>
+    <li>Computational text processing project using NLP libraries such as spaCy for entity recognition and nltk for sentiment analysis.</li>
   </ul>
   <a href="https://yvesmango.github.io/7020-customer-segmentation/"><span class="card-link-spanner"></span></a>
 </div>
