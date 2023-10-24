@@ -16,7 +16,7 @@ title: projects
   <ul>
     <li>Computational text processing project using NLP libraries such as spaCy for entity recognition and nltk for sentiment analysis.</li>
   </ul>
-  <a href="https://yvesmango.github.io/8420-subreddit-sentiment-analysis/"><span class="card-link-spanner"></span></a>
+  <a href="https://yvesmango.github.io/8410-subreddit-sentiment-analysis/"><span class="card-link-spanner"></span></a>
 </div>
 
 <div class="card">
