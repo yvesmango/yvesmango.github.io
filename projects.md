@@ -24,6 +24,8 @@ title: projects
 </h3>
   <p>Side Project</p>
   <span class=rep>R</span>
+  <span class=rep>K-means Clustering</span>
+  <span class=rep>Segmentation</span>
   <ul>
     <li>Unsupervised learning, customer segmentation project.</li>
   </ul>
