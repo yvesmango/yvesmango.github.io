@@ -6,7 +6,7 @@ title: about
 
 ## About Me
 
-mabuhay! <a href="https://youtu.be/BwqSraJpqfs" target="_blank">today is a gift.</a>
+mabuhay po! <a href="https://youtu.be/BwqSraJpqfs" target="_blank">today is a gift.</a>
 
 i'm a puzzle-solver. data are my puzzles and i use code to solve them. my interests lie at the intersection of storytelling and data science. i’m infinitely curious about the way the world works; data is my tool for storytelling and understanding the world. what tool do you use?
 
