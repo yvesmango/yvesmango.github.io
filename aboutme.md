@@ -8,7 +8,8 @@ title: about
 
 mabuhay po! <a href="https://youtu.be/BwqSraJpqfs" target="_blank">today is a gift.</a>
 
-i'm a puzzle-solver. data are my puzzles and i use code to solve them. my interests lie at the intersection of storytelling and data science. i’m infinitely curious about the way the world works; data is my tool for storytelling and understanding the world. what tool do you use?
+hello, my name is Yves De Jesus. my background is in journalism but i leverage data science to tell stories. i have extensive experience working with data, primarily GIS data. in my off-studies, i work as a research analyst at <a href="https://careshq.org/about/" target="_blank">CARES</a>, a GIS research center. my background is in journalism, which is how i first broke through the data universe (data-verse?). 
+
 
 ...
 * * * 
