@@ -7,6 +7,21 @@ title: projects
 ## Projects
 
 <div class="card">
+  <h3>Streamlit Aviation Dashboard
+</h3>
+  <p>Side Project</p>
+  <span class=rep>Python</span>
+  <span class=rep>Data Engineering</span>
+  <span class=rep>Google Cloud Platform</span>
+  <ul>
+    <li>Interactive data dashboard built with Streamlit showcasing insights from aviation data.</li>
+    <li>Features include visualizations of flight routes, airline statistics, and flight duration distributions.</li>
+    <li>Utilizes GCP for data engineering, and Streamlit for data analysis, visualization, and dashboard creation.</li>
+  </ul>
+  <a href="https://skylite.streamlit.app/"><span class="card-link-spanner"></span></a>
+</div>
+
+<div class="card">
   <h3>Subreddit Sentiment Analysis, A Course Final Project
 </h3>
   <p>Side Project</p>
