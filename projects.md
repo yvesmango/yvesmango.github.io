@@ -18,7 +18,7 @@ title: projects
     <li>Features include visualizations of flight routes, airline statistics, and flight duration distributions.</li>
     <li>Utilizes GCP for data engineering, and Streamlit for data analysis, visualization, and dashboard creation.</li>
   </ul>
-  <a href="https://skylite.streamlit.app/"><span class="card-link-spanner"></span></a>
+  <a href="https://skylite.streamlit.app/" target="_blank"><span class="card-link-spanner"></span></a>
 </div>
 
 <div class="card">
