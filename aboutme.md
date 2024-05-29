@@ -10,7 +10,7 @@ mabuhay po ~ <a href="https://youtu.be/BwqSraJpqfs" target="_blank">today is a g
 
 hello, my name is Yves De Jesus. welcome to my site where i showcase my data work and side interests. i have extensive experience working with all types of data (with a focus on GIS data), some of which you can view in the <a href="/projects.md"> projects </a> section. as a recent grad, i'm currently looking for analyst roles, preferably in the transportation industry!
 
-my current experience as a research analyst at a <a href="https://careshq.org/about/" target="_blank">GIS research center</a> at the University of Missouri-Columbia has me interacting with the ESRI suite to navigate and manipulate spatial data. my background is in journalism, which is how i first broke through the data universe (data-verse?). 
+my current role as a research analyst at a <a href="https://careshq.org/about/" target="_blank">GIS research center</a> at the University of Missouri-Columbia involves interacting with the ESRI suite to navigate and manipulate spatial data, among many things. my background is in journalism, which is how i first broke through the data universe (data-verse?). 
 
 
 ...
