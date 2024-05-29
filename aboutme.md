@@ -6,7 +6,7 @@ title: about
 
 ## About Me
 
-mabuhay po! <a href="https://youtu.be/BwqSraJpqfs" target="_blank">today is a gift.</a>
+mabuhay po ~ <a href="https://youtu.be/BwqSraJpqfs" target="_blank">today is a gift.</a>
 
 hello, my name is Yves De Jesus. welcome to my site where i showcase my data work and side interests. i have extensive experience working with all types of data (with a focus on GIS data), some of which you can view in the <a href="/projects.md"> projects </a> section. as a recent grad, i'm currently looking for analyst roles, preferably in the transportation industry!
 
