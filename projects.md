@@ -14,7 +14,7 @@ title: projects
   <span class=rep>Data Engineering</span>
   <span class=rep>Google Cloud Platform</span>
   <ul>
-    <li>Interactive data dashboard built with Streamlit showcasing insights from aviation data.</li>
+    <li>Interactive dashboard hosted on Streamlit showcasing insights from aviation data.</li>
     <li>Features include visualizations of flight routes, airline statistics, and travel distance metrics.</li>
     <li>Utilizes GCP for data engineering, and Streamlit for data analysis, visualization, and dashboard creation.</li>
   </ul>
