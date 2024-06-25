@@ -15,7 +15,7 @@ title: projects
   <span class=rep>Google Cloud Platform</span>
   <ul>
     <li>Interactive data dashboard built with Streamlit showcasing insights from aviation data.</li>
-    <li>Features include visualizations of flight routes, airline statistics, and flight duration distributions.</li>
+    <li>Features include visualizations of flight routes, airline statistics, and travel distance metrics.</li>
     <li>Utilizes GCP for data engineering, and Streamlit for data analysis, visualization, and dashboard creation.</li>
   </ul>
   <a href="https://skylite.streamlit.app/" target="_blank"><span class="card-link-spanner"></span></a>
