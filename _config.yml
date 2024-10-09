@@ -19,7 +19,9 @@ platforms:
   - name: <a href="https://mastodon.social/@yvesmango" target="_blank"><i class="fa-brands fa-mastodon fa-lg"></i> Mastodon</a>
     icon:
     link:
-  - name: <i class="fa-solid fa-map-pin"></i> Boston Metro
+  - name: <a href="https://maps.app.goo.gl/JUh1S2CpjMbCttwv8" target="_blank"><i class="fa-solid fa-map-pin"></i> Boston, MA</a>
+    icon: 
+    link:
 
 navigation:
   - name: home
