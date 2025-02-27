@@ -1,6 +1,6 @@
 ## yvesmango
 
-My personal website  (under construction)  
+My personal website 
 (blog infrastructure coming soon!)
 
 ### Credits:
