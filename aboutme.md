@@ -8,7 +8,7 @@ title: about
 
 mabuhay po ~ *<a href="https://youtu.be/BwqSraJpqfs" target="_blank">today is a gift.</a>*
 
-hello, my name is Yves De Jesus. welcome to my site where i showcase my data work and side interests. i have extensive experience working with all types of structured _and_ unstructured data (with a focus on GIS data), some of which you can view here in the <a href="/projects.md"> projects </a> section. 
+hello, my name is Yves De Jesus. welcome to my site where i showcase my data work and side interests. i have extensive experience working with all types of structured _and_ unstructured data (with a focus on GIS data), some of which you can view here in the <a href="https://yvesmango.github.io/projects"> projects </a> section. 
 
 
 currently, i am a mapping technician at National Grid. my previous role at a <a href="https://careshq.org/about/" target="_blank">GIS research center</a> involved interacting with the ESRI suite to analyze and map spatial data, among many things between. my background is in journalism, which is how i first broke through the data universe (data-verse?). 
