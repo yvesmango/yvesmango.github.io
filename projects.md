@@ -14,7 +14,7 @@ title: projects
   <span class="rep">Leafmap</span>
   <span class="rep">Spatial Analysis</span>
   <ul>
-    <li>Spatial analysis of crash data (2023-2025) and traffic volumes near Somerville public schools using Python and GeoPandas.</li>
+    <li>Spatial analysis of crash data (2023-2025) and traffic volumes near Somerville public schools using Geopandas and Leafmap.</li>
     <li>Developed priority rankings based on crash frequency, injury severity, and traffic exposure to identify high-risk school zones.</li>
     <li>Created interactive maps with Leafmap and static visualizations with Matplotlib.</li>
   </ul>
