@@ -7,6 +7,21 @@ title: projects
 ## Projects
 
 <div class="card">
+  <h3>Somerville School Safety Analysis</h3>
+  <p>Side Project</p>
+  <span class="rep">Python</span>
+  <span class="rep">GeoPandas</span>
+  <span class="rep">Leafmap</span>
+  <span class="rep">Spatial Analysis</span>
+  <ul>
+    <li>Spatial analysis of crash data (2023-2025) and traffic volumes near Somerville public schools using Python and GeoPandas.</li>
+    <li>Developed priority rankings based on crash frequency, injury severity, and traffic exposure to identify high-risk school zones.</li>
+    <li>Created interactive maps with Leafmap and static visualizations with Matplotlib.</li>
+  </ul>
+  <a href="https://yvesmango.github.io/somerville-schools-road-safety/" target="_blank"><span class="card-link-spanner"></span></a>
+</div>
+
+<div class="card">
   <h3>Streamlit Aviation Dashboard
 </h3>
   <p>Side Project</p>
