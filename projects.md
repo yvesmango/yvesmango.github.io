@@ -18,7 +18,7 @@ title: projects
     <li>Developed priority rankings based on crash frequency, injury severity, and traffic exposure to identify high-risk school zones.</li>
     <li>Created interactive maps with Leafmap and static visualizations with Matplotlib.</li>
   </ul>
-  <a href="https://yvesmango.github.io/somerville-schools-road-safety/" target="_blank"><span class="card-link-spanner"></span></a>
+  <a href="https://yvesmango.github.io/somerville-schools-traffic-safety/" target="_blank"><span class="card-link-spanner"></span></a>
 </div>
 
 <div class="card">
