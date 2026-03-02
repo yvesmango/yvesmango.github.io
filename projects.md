@@ -7,7 +7,7 @@ title: projects
 ## Projects
 
 <div class="card">
-  <h3>Somerville School Safety Analysis</h3>
+  <h3>Somerville School Traffic Safety</h3>
   <p>Side Project</p>
   <span class="rep">Python</span>
   <span class="rep">GeoPandas</span>
