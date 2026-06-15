@@ -10,9 +10,8 @@ title: projects
   <h3>MBTA Park Accessibility</h3>
   <p>Side Project</p>
   <span class="rep">Python</span>
-  <span class="rep">GeoPandas</span>
   <span class="rep">OSMnx</span>
-  <span class="rep">Spatial Analysis</span>
+  <span class="rep">Travel Time Analysis</span>
   <ul>
     <li>Analysis of walking access to parks from 150+ MBTA stations across Boston, Cambridge, and Somerville using OSMnx and GeoPandas.</li>
     <li>Generated 5/10/15-minute walking isochrones using network‑buffered method over convex hulls for pedestrian‑accurate accessibility.</li>
