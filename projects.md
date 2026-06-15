@@ -7,6 +7,21 @@ title: projects
 ## Projects
 
 <div class="card">
+  <h3>MBTA Park Accessibility</h3>
+  <p>Side Project</p>
+  <span class="rep">Python</span>
+  <span class="rep">GeoPandas</span>
+  <span class="rep">OSMnx</span>
+  <span class="rep">Spatial Analysis</span>
+  <ul>
+    <li>Analysis of walking access to parks from 150+ MBTA stations across Boston, Cambridge, and Somerville using OSMnx and GeoPandas.</li>
+    <li>Generated 5/10/15-minute walking isochrones using network‑buffered method over convex hulls for pedestrian‑accurate accessibility.</li>
+    <li>Identified access gaps; presented findings at 2026 NEARC Conference and produced multi‑panel poster.</li>
+  </ul>
+  <a href="https://yvesmango.github.io/mbta-park-access/" target="_blank"><span class="card-link-spanner"></span></a>
+</div>
+
+<div class="card">
   <h3>Somerville Schools Traffic Safety</h3>
   <p>Side Project</p>
   <span class="rep">Python</span>
