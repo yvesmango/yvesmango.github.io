@@ -8,7 +8,7 @@ title: projects
 
 <div class="card">
   <h3>MBTA Park Accessibility</h3>
-  <p>Side Project</p>
+  <p>Transitivo Project</p>
   <span class="rep">Python</span>
   <span class="rep">OSMnx</span>
   <span class="rep">Travel Time Analysis</span>
@@ -22,7 +22,7 @@ title: projects
 
 <div class="card">
   <h3>Somerville Schools Traffic Safety</h3>
-  <p>Side Project</p>
+  <p>Transitivo Project</p>
   <span class="rep">Python</span>
   <span class="rep">GeoPandas</span>
   <span class="rep">Leafmap</span>
