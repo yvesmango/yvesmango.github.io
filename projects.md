@@ -14,7 +14,7 @@ title: projects
   <span class="rep">Data Visualization</span>
   <ul>
     <li>Analyzed one-way distance totals for all 48 national teams from training camps to group-stage venues across North America.</li>
-    <li>Used airports-py and geopy to map training sites to nearest commercial airports and calculate great-circle distances.</li>
+    <li>Mapped training sites to nearest commercial airports and calculate great-circle distances.</li>
     <li>Built interactive dashboard with Chart.js showing ranked travel distances and flight-time equivalents.</li>
   </ul>
   <a href="https://yvesmango.github.io/fifawc2026-traveldistance/" target="_blank"><span class="card-link-spanner"></span></a>
