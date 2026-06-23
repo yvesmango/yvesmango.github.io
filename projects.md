@@ -7,6 +7,20 @@ title: projects
 ## Projects
 
 <div class="card">
+  <h3>FIFA 2026 World Cup Travel Logistics</h3>
+  <p>Transitivo Project</p>
+  <span class="rep">Chart.js</span>
+  <span class="rep">Distance Analysis</span>
+  <span class="rep">Data Visualization</span>
+  <ul>
+    <li>Analyzed one-way distance totals for all 48 national teams from training camps to group-stage venues across North America.</li>
+    <li>Used airports-py and geopy to map training sites to nearest commercial airports and calculate great-circle distances.</li>
+    <li>Built interactive dashboard with Chart.js showing ranked travel distances and flight-time equivalents.</li>
+  </ul>
+  <a href="https://yvesmango.github.io/fifawc2026-traveldistance/" target="_blank"><span class="card-link-spanner"></span></a>
+</div>
+
+<div class="card">
   <h3>MBTA Park Accessibility</h3>
   <p>Transitivo Project</p>
   <span class="rep">Python</span>
