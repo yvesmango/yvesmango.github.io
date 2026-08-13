@@ -7,6 +7,21 @@ title: projects
 ## Projects
 
 <div class="card">
+  <h3>BOS311 Civic Data Explorer & Analytics Pipeline</h3>
+  <p>Independent Project</p>
+  <span class="rep">Python</span>
+  <span class="rep">SQL</span>
+  <span class="rep">Metabase</span>
+  <span class="rep">Data Pipeline</span>
+  <ul>
+    <li>Engineered an end-to-end automated data pipeline using Python and SQL to ingest, clean, and normalize thousands of municipal 311 service requests from hybrid legacy/new APIs.</li>
+    <li>Designed a robust data normalization layer to resolve conflicting civic taxonomies, ensuring a single, accurate source of truth for reliable fact-checking and reporting.</li>
+    <li>Deployed an interactive, public-facing Metabase dashboard enabling readers and editors to track neighborhood-level service trends, SLA compliance, and municipal accountability.</li>
+  </ul>
+  <a href="https://yvesmango.github.io/bos311-explorer/" target="_blank"><span class="card-link-spanner"></span></a>
+</div>
+
+<div class="card">
   <h3>FIFA 2026 World Cup Travel Logistics</h3>
   <p>Transitivo Project</p>
   <span class="rep">Chart.js</span>
