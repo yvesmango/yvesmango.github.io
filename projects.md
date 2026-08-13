@@ -6,17 +6,18 @@ title: projects
 
 ## Projects
 
+
 <div class="card">
-  <h3>BOS311 Civic Data Explorer & Analytics Pipeline</h3>
+  <h3>Boston 311 Civic Data Explorer & Analytics Pipeline</h3>
   <p>Independent Project</p>
   <span class="rep">Python</span>
   <span class="rep">SQL</span>
   <span class="rep">Metabase</span>
   <span class="rep">Data Pipeline</span>
   <ul>
-    <li>Engineered an end-to-end automated data pipeline using Python and SQL to ingest, clean, and normalize thousands of municipal 311 service requests from hybrid legacy/new APIs.</li>
-    <li>Designed a robust data normalization layer to resolve conflicting civic taxonomies, ensuring a single, accurate source of truth for reliable fact-checking and reporting.</li>
-    <li>Deployed an interactive, public-facing Metabase dashboard enabling readers and editors to track neighborhood-level service trends, SLA compliance, and municipal accountability.</li>
+    <li>Engineered an automated Python/SQL pipeline to ingest and normalize hybrid legacy and new 311 API data.</li>
+    <li>Designed a unified Supabase data warehouse schema to resolve conflicting civic taxonomies into a single, accurate source of truth.</li>
+    <li>Deployed an interactive Metabase dashboard enabling readers to track neighborhood-level service trends and SLA compliance.</li>
   </ul>
   <a href="https://yvesmango.github.io/bos311-explorer/" target="_blank"><span class="card-link-spanner"></span></a>
 </div>
