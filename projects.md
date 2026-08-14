@@ -15,8 +15,7 @@ title: projects
   <span class="rep">Metabase</span>
   <span class="rep">Data Pipeline</span>
   <ul>
-    <li>Engineered an automated Python/SQL pipeline to ingest and normalize hybrid legacy and new 311 API data.</li>
-    <li>Designed a unified Supabase data warehouse schema to resolve conflicting civic taxonomies into a single, accurate source of truth.</li>
+    <li>Engineered an automated Python/SQL pipeline for ingesting 311 data into a queryable warehouse and a dashboard-ready analytics layer.</li>
     <li>Deployed an interactive Metabase dashboard enabling readers to track neighborhood-level service trends and SLA compliance.</li>
   </ul>
   <a href="https://yvesmango.github.io/bos311-explorer/" target="_blank"><span class="card-link-spanner"></span></a>
